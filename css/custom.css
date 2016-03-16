@@ -10,7 +10,9 @@ img {
 }
 
 a {
-  color: #eee;
+  font-weight: bold;
+  color: #000080;
+  font-family: sans-serif;
 }
 
 .heading {
@@ -33,11 +35,12 @@ a {
 }
 
 .main-content {
-  color: #00080;
+
   font-size: 115%;
   font-family: serif;
   margin-top: 60px;
 }
+
 
 h1 {
   padding-top: 4%;
