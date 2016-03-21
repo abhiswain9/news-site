@@ -9,6 +9,8 @@ img {
   width: 100%;
 }
 
+
+
 .box.grid_5 img {
   height: 200px;
 }
@@ -54,12 +56,14 @@ a {
   padding-top: 30px;
   padding-left: 30px;
   padding-right: 30px;
+  padding-bottom: 30px;
 }
 
 .box.grid_7{
   padding-top: 30px;
   padding-left: 10px;
   padding-right: 10px;
+
 
 }
 
@@ -76,6 +80,12 @@ a {
   margin-left: 10px;
   margin-right: auto;
   padding-bottom: 20px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  font-family: 'Roboto Condensed',sans-serif;
+ font-size: 150%;
+ font-weight: 800;
+ color: #DCDCDC 	;
 }
 
 .box.grid_11{
