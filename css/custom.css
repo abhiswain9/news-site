@@ -9,6 +9,14 @@ img {
   width: 100%;
 }
 
+.box.grid_5 img {
+  height: 200px;
+}
+
+.newsimg {
+  border: 20px;
+}
+
 a {
   font-weight: bold;
   color: #000080;
@@ -27,10 +35,33 @@ a {
   background-color: #003366;
 }
 
-.box.grid_3{
+h2.intro{
+  text-align: center;
+  font-size: bold;
+}
 
-  padding-left: 50px;
-  padding-right: 50px;
+.box.grid_3{
+   padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.box.grid_10{
+  padding-top: 20px;
+  background-image: url(../img/metal.jpg);
+  padding-bottom: 50px;
+}
+
+.box.grid_5{
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.box.grid_7{
+  padding-top: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
 
 }
 
@@ -43,11 +74,19 @@ a {
 
 
 h1 {
-  padding-top: 4%;
-  text-align: center;
-  text-decoration-color: 	#000080;
-  font-family: fantasy;;
-  font-size: 450%;
+  padding-top: 14%;
+  padding-left: 4%;
+  text-align: left;
+  text-decoration-color: 	#fff;
+  font-family: serif;
+  font-size: 350%;
+  font-weight: bolder;
+  color: 	#fff;
+}
+
+h2{
+  font-family: sans-serif;
+  font-size: 150%;
   font-weight: bolder;
   color: 	#000080;
 }
