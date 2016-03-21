@@ -19,14 +19,13 @@ img {
   border: 20px;
 }
 
+a{
+   color: #4F4F4F;
+}
+
 p{
   font-family: 'Raleway', sans-serif;
   padding-top: 10px;
-}
-
-a {
-  color: #000080;
-
 }
 
 .main-content{
@@ -64,7 +63,10 @@ a {
   padding-left: 10px;
   padding-right: 10px;
 
+}
 
+#morenews{
+  font-size: 200%;
 }
 
 .box.grid_9{
@@ -85,13 +87,13 @@ a {
   font-family: 'Roboto Condensed',sans-serif;
  font-size: 150%;
  font-weight: 800;
- color: #DCDCDC 	;
+ color: #DCDCDC;
 }
 
 .box.grid_11{
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 40px;
-  font-family: 'Raleway',sans-serif;
+  font-family: 'Roboto Condensed',sans-serif;
   font-size: 150%;
   text-align: center;
 }
